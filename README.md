@@ -1,0 +1,2 @@
+# pycharm
+for python learning
